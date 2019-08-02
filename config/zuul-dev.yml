@@ -5,7 +5,7 @@ spring:
     host: 192.168.166.131
     port: 5672
     username: admin
-    passwored: admin
+    password: admin
     
 server:  port: 3001
   
